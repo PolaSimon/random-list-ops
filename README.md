@@ -6,5 +6,6 @@
 
 
 ##### How to run script ?
-Clone my repozitory and navigate to random-list-ops folder.
-In cmd type ` python list_operations.py `
+#####Clone my repozitory and navigate to random-list-ops folder.
+
+#####In cmd type ` python list_operations.py `
