@@ -1,6 +1,17 @@
 import random
 
 def list_operations():
+    '''A function that runs commands on a randomly generated list.
+    
+    User makes choice what want to do with list by typing name of operation 
+    - insert
+    - print
+    - remove 
+    - append 
+    - sort 
+    - exit
+
+    '''
     lst = []
 
     len_lst = int(input("Input a number to define lenght of the list: "))
